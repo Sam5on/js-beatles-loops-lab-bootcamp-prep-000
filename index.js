@@ -20,4 +20,5 @@ const array = [];
 do {
   
 }
+while(n<15)
 }
