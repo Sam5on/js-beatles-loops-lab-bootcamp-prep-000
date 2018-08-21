@@ -19,7 +19,7 @@ function iLoveTheBeatles (n) {
 const array = [];
 do {
   "I love the Beatles!";
-  i++;
+  n++;
   
 }
 while(n<15)
