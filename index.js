@@ -18,6 +18,8 @@ function johnLennonFacts (facts)
 function iLoveTheBeatles (n) {
 const array = [];
 do {
+  "I love the Beatles!";
+  i++;
   
 }
 while(n<15)
