@@ -15,4 +15,7 @@ function johnLennonFacts (facts)
   return facts;
 }
 
-function iLoveTheBeatles (n) {}
+function iLoveTheBeatles (n) {
+const array = [];
+do 
+}
